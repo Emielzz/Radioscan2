@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="a11y_desc">Leest alleen de tekst van schermen mee en slaat die op in RadioScan. Doet nooit zelf iets op het scherm.</string>
+</resources>
